@@ -1,4 +1,4 @@
-#Clear console screen
-1. Type `<clear>`
-2. Type `<cls>`
-3. hit Ctrl+L
+# Clear console screen
+1. Type `clear` OR
+2. Type `cls` OR
+3. hit `Ctrl+L`
