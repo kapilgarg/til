@@ -28,4 +28,5 @@
     ```
     git stash clear
     ```
+6.
 
