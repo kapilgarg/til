@@ -1,7 +1,7 @@
 # GIT TRICKS
 
 ## Commit
-1. Undo a commit : [source](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+1. Undo last commit : [source](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
     ```
     git reset HEAD~
     ```
